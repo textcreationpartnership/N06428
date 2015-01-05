@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:008156_0000_102E3E40CDF26388"/>
-            <pb n="1" facs="tcp:008156_0001_102E3E4257D68DE8"/>
+            <pb facs="unknown:008156_0000_102E3E40CDF26388"/>
+            <pb n="1" facs="unknown:008156_0001_102E3E4257D68DE8"/>
             <p>MINUTES OF CONFERENCES, HELD AT <hi>EASTON,</hi> In <hi>OCTOBER,</hi> 1758,</p>
             <p>With the Chief SACHEMS and WARRIORS of the <hi>Mohawks, Oneidoes, Onondagoes, Cayugas, Senecas, Tuſcaroras, Tutcloes, Skaniada<g ref="char:EOLhyphen"/>radigronos,</hi> conſiſting of the <hi>Nanticokes</hi> and <hi>Conoys,</hi> who now make one Nation; <hi>Chugnuts, Delawares, Unamies, Mahickanders,</hi> or <hi>Mohickons; Miniſinks,</hi> and <hi>Wapingers,</hi> or <hi>Pumptons.</hi>
             </p>
@@ -122,8 +122,8 @@
       </front>
       <body>
          <div type="conference_minutes">
-            <pb n="2" facs="tcp:008156_0002_102E3E4525A32990"/>
-            <pb n="3" facs="tcp:008156_0003_102E3E49F073CB18"/>
+            <pb n="2" facs="unknown:008156_0002_102E3E4525A32990"/>
+            <pb n="3" facs="unknown:008156_0003_102E3E49F073CB18"/>
             <head>
                <hi>Minutes of Conferences,</hi> &amp;c.</head>
             <div type="day">
@@ -201,7 +201,7 @@
                         </list>
                      </item>
                      <item>
-                        <pb n="4" facs="tcp:008156_0004_102E3E4FDA4D42D8"/>
+                        <pb n="4" facs="unknown:008156_0004_102E3E4FDA4D42D8"/>
                         <hi>A Number of Magiſtrates and Freeholders, of this and the neighbouring Province, and of the Citizens of the City of</hi> Philadelphia, <hi>chiefly of the People called</hi> Quakers.</item>
                      <item>GEORGE CROGHAN, <hi>
                            <abbr>Eſq</abbr> Deputy Agent for</hi> Indian <hi>Affairs, under Sir</hi> WILLIAM JOHNSON.</item>
@@ -280,7 +280,7 @@
                   <hi>Brother</hi>
                </p>
                <p>
-                  <pb n="5" facs="tcp:008156_0005_102E3E5164D8F7D8"/>
+                  <pb n="5" facs="unknown:008156_0005_102E3E5164D8F7D8"/>
                   <hi>Brother</hi> Onas,</p>
                <p>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
                      <desc>•</desc>
@@ -347,7 +347,7 @@
                   </p>
                   <p>
                      <hi>TAGASHATA,</hi> the <hi>Seneca</hi> Chief, intending to ſpeak firſt, on Behalf of the <hi>In<g ref="char:EOLhyphen"/>dians,</hi> had laid ſome Belts and Strings in Order on the Table.</p>
-                  <p>As ſoon as the Company ſat down, <hi>Teedyuſcung,</hi> holding out a String, ſaid he had ſomething to deliver, and deſired he might be heard firſt of all. Mr. <hi>Croghan</hi> requeſted <pb n="6" facs="tcp:008156_0006_102E3E542A0F6908"/>to know, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <p>As ſoon as the Company ſat down, <hi>Teedyuſcung,</hi> holding out a String, ſaid he had ſomething to deliver, and deſired he might be heard firſt of all. Mr. <hi>Croghan</hi> requeſted <pb n="6" facs="unknown:008156_0006_102E3E542A0F6908"/>to know, <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> what he was going to ſay was the reſult of the <hi>Delaware</hi> Council, and if it was their Deſire it ſhould be ſpoke firſt; but no Anſwer was given him as to this.</p>
                   <p>Governor <hi>Bernard</hi> ſignifying his Deſire to bid the <hi>Indians</hi> welcome, and ju<gap reason="illegible" resp="#PDCC" extent="2 letters">
@@ -393,7 +393,7 @@
                </div>
             </div>
             <div type="day">
-               <pb n="7" facs="tcp:008156_0007_102E3E55B0E21D48"/>
+               <pb n="7" facs="unknown:008156_0007_102E3E55B0E21D48"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>Held at</hi> Eaſton, <hi>on the 12th of</hi> October, 1758.</head>
                <p>PRESENT,
@@ -455,7 +455,7 @@
                <p>I ſpeak in Behalf of the younger Nations, Part of, and confederated with, the <hi>Six Na<g ref="char:EOLhyphen"/>tions, viz.</hi> The <hi>Cayugas, Oneidoes, Tuſcaroras, Tuteloes, Nanticokes,</hi> and <hi>Coneys.</hi>
                </p>
                <p>
-                  <pb n="8" facs="tcp:008156_0008_102E3E573760DD58"/>
+                  <pb n="8" facs="unknown:008156_0008_102E3E573760DD58"/>
 A Road has been made from our Country to this Council Fire, that we might treat about Friendſhip; and as we came down the Road, we ſaw that (by ſome Misfortune or other) Blood has lately been ſpilt on it. By theſe Strings we make the Road wider and clearer;— we take the Blood away out of it, and likewiſe out of the Council Chamber, which may have been ſtained; we waſh it all away, and deſire it may not be ſeen any more, and we take the Hatchet out of your Heads.</p>
                <p>
                   <hi>Gave three Strings.</hi>
@@ -509,7 +509,7 @@ A Road has been made from our Country to this Council Fire, that we might treat 
                <p>
                   <hi>Brethren,</hi>
                </p>
-               <p>You gave us Yeſterday theſe two Belts, in Behalf of your Nephews the <hi>Delawares</hi> and <hi>Miniſinks,</hi> and joined with them in taking out of our Heads the Hatchets with which we had been ſtruck, acquainting us, <q>that theſe Hatchets were given to your Nephews by the <pb n="9" facs="tcp:008156_0009_102E3E59BAA7B388"/>
+               <p>You gave us Yeſterday theſe two Belts, in Behalf of your Nephews the <hi>Delawares</hi> and <hi>Miniſinks,</hi> and joined with them in taking out of our Heads the Hatchets with which we had been ſtruck, acquainting us, <q>that theſe Hatchets were given to your Nephews by the <pb n="9" facs="unknown:008156_0009_102E3E59BAA7B388"/>
                      <gap reason="illegible" resp="#PDCC" extent="1 span">
                         <desc>〈…〉</desc>
                      </gap> they would not uſe them any more againſt us; but were heartily diſpoſed <gap reason="illegible" resp="#PDCC" extent="1 span">
@@ -628,7 +628,7 @@ A Road has been made from our Country to this Council Fire, that we might treat 
                </p>
                <p>As there are a great many of you here, who were not preſent at our former Meetings, I think it proper, for your Information, to give you a ſhort Account of what has paſſed be<g ref="char:EOLhyphen"/>tween your Nephews the <hi>Delawares</hi> and us.</p>
                <p>
-                  <pb n="10" facs="tcp:008156_0010_102E3E5C4CCD30F0"/>About three Years ago your Brethren the <hi>Engliſh,</hi> living on the Borders of this Province, were ſtruck on a ſudden, at a Time when they were in profound Peace with you, and fol<g ref="char:EOLhyphen"/>lowing their Buſineſs, ſuſpecting no Danger. Many were killed, and others carried away Captives.</p>
+                  <pb n="10" facs="unknown:008156_0010_102E3E5C4CCD30F0"/>About three Years ago your Brethren the <hi>Engliſh,</hi> living on the Borders of this Province, were ſtruck on a ſudden, at a Time when they were in profound Peace with you, and fol<g ref="char:EOLhyphen"/>lowing their Buſineſs, ſuſpecting no Danger. Many were killed, and others carried away Captives.</p>
                <p>We were ſurprized, and did not know who ſtruck us, but ſent Meſſengers up the <hi>Saſ<g ref="char:EOLhyphen"/>quehannah,</hi> as far as the <hi>Six Nation</hi> Country, to enquire whence the Blow came, and for what Reaſon</p>
                <p>On the Return of theſe Meſſengers, we were informed that the Hatchet had been ſtruck into our Heads by our Countrymen the <hi>Delawares</hi> and <hi>Shawaneſe.</hi>
                </p>
@@ -665,7 +665,7 @@ A Road has been made from our Country to this Council Fire, that we might treat 
                   <hi>A Belt.</hi>
                </p>
                <p>Previous to what follows, it is neceſſary to obſerve, that <hi>Piſquitomen,</hi> and another <hi>Ohio In<g ref="char:EOLhyphen"/>dian,</hi> having come to <hi>Philadelphia</hi> laſt Summer, acquainted the Governor, that the <hi>Indians</hi> in thoſe Parts had not received any Account of the late Tranſactions with this Government, not any Meſſage from it; and that they might be perſuaded to lay down the Hatchet, the Go<g ref="char:EOLhyphen"/>vernor therefore took that Opportunity to ſend a friendly Meſſage to thoſe <hi>Indians</hi> by <hi>Piſ<g ref="char:EOLhyphen"/>quitomen,</hi> and appointed Mr. <hi>Frederick Poſt,</hi> a <hi>German,</hi> who underſtood the <hi>Delaware</hi> Lan<g ref="char:EOLhyphen"/>guage, to attend him, and acquaint the <hi>Indians</hi> at <hi>Ohio</hi> of the Peace made by the <hi>Saſque<g ref="char:EOLhyphen"/>hannah</hi>
-                  <pb n="11" facs="tcp:008156_0011_102E3E5FED2649E0"/>
+                  <pb n="11" facs="unknown:008156_0011_102E3E5FED2649E0"/>
                   <hi>Delawares<g ref="char:punc">▪</g>
                   </hi> and other <hi>Indians,</hi> and the Diſpoſition of this Government to forgive what was paſt, if they would return to their antient Alliance. This Meſſage was accordingly delivered, and an Anſwer returned by <hi>Frederick Poſt, Piſquitomen,</hi> and <hi>Thomas Hickman,</hi> an <hi>Ohio Indian,</hi> who having come down together as far as <hi>Harris's</hi> Ferry, <hi>Frederick Poſt</hi> went to wait on General <hi>Forbes,</hi> and left the two <hi>Indians</hi> to proceed with the Meſſage, who being now arrived at <hi>Eaſton, Piſquitomen,</hi> who had the particular Charge of it, introduced it as <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -732,7 +732,7 @@ A Road has been made from our Country to this Council Fire, that we might treat 
                   <hi>Brethren,</hi>
                </p>
                <p>When you have made this Peace, which you have begun, known every where amongſt 
-<pb n="12" facs="tcp:008156_0012_102E3E6177F8B858"/>
+<pb n="12" facs="unknown:008156_0012_102E3E6177F8B858"/>
 your Brethren, and have finiſhed and agreed every where together on this Peace and Friend<g ref="char:EOLhyphen"/>ſhip, then you will be pleaſed to ſend it to me at <hi>Allegheny.</hi>
                </p>
                <p>
@@ -830,7 +830,7 @@ your Brethren, and have finiſhed and agreed every where together on this Peace 
                </p>
                <p>You all know that he gives out, he is the great Man, and Chief of Ten Nations, this is his conſtant Diſcourſe. Now I, on Behalf of the <hi>Mohawks,</hi> ſay, we do not know he is ſuch a great Man. If he is ſuch a great Man, we deſire to know who has made him ſo. Perhaps you have, and if this be the Caſe, tell us ſo. It may be the <hi>French</hi> have made him ſo. We want to enquire and know whence his Greatneſs aroſe.</p>
                <p>
-                  <pb n="13" facs="tcp:008156_0013_102DD04B21E72F18"/>Tagaſhata, <hi>on the Behalf of the</hi> Senecas, <hi>ſpoke next.</hi>
+                  <pb n="13" facs="unknown:008156_0013_102DD04B21E72F18"/>Tagaſhata, <hi>on the Behalf of the</hi> Senecas, <hi>ſpoke next.</hi>
                </p>
                <p>
                   <hi>Brethren,</hi>
@@ -881,7 +881,7 @@ your Brethren, and have finiſhed and agreed every where together on this Peace 
                <p>Thoſe of Yeſterday's private Conference were read at the particular Deſire of the Chiefs of the <hi>Eight Nations,</hi> and interpreted to <hi>Teedyuſcung,</hi> and the <hi>Delawares,</hi> in the <hi>Delawares</hi> Language, by Mr. <hi>Stephen Calvin.</hi>
                </p>
                <p>
-                  <pb n="14" facs="tcp:008156_0014_102E3E66489DF690"/>The Governors then ſpoke ſeparately; Governor <hi>Denny</hi> beginning as follow.</p>
+                  <pb n="14" facs="unknown:008156_0014_102E3E66489DF690"/>The Governors then ſpoke ſeparately; Governor <hi>Denny</hi> beginning as follow.</p>
                <p>
                   <hi>Brethren, the</hi> Mohawks, Onondagoes, Senecas, Oneidoes, Cayugas, Tuſcaroras, Nanticokes <hi>and</hi> Tuteloes,</p>
                <p>In a Conference held with you Yeſterday, you told me, that we know your Nephew <hi>Teedyuſcung</hi> gives out, that he is the great Man, and Chief of ten Nations, and that this was his conſtant Diſcourſe; by this Belt therefore you denied him to be ſo great a Man, and de<g ref="char:EOLhyphen"/>ſired to know of me who made him ſo, or gave him any Authority over you.</p>
@@ -918,7 +918,7 @@ your Brethren, and have finiſhed and agreed every where together on this Peace 
                </p>
                <p>As you propoſed your Queſtion, concerning <hi>Teedyuſcung,</hi> ſeparately, I think it proper to give you a ſeparate Anſwer thereto.</p>
                <p>I know not who made <hi>Teedyuſcung</hi> ſo great a Man, nor do I know that he is any greater than a Chief of the <hi>Delaware Indians,</hi> ſettled at <hi>Wyomink.</hi> The Title of King could not be given him by any <hi>Engliſh</hi> Governor; for we know very well, that there is no ſuch Perſon among <hi>Indians,</hi> as what we call a King. And if we call him ſo, we mean no more than a Sachem or Chief. I obſerve, in his Treaties, which he has held with the Governors of <hi>Pennſylvania</hi> (which I have peruſed ſince our laſt Meeting) he ſays he was a Woman till you made him a Man, by putting a Tomahawk in his Hand; and through all of thoſe 
-<pb n="15" facs="tcp:008156_0015_102E3E68C7FCE430"/>
+<pb n="15" facs="unknown:008156_0015_102E3E68C7FCE430"/>
 Treaties, eſpecially in the laſt, held at this Town, he calls you his Uncles, and profeſſes that he is dependent on you; and I know not that any Thing has ſince happened to alter his Relation to you. I therefore conſider him to be ſtill your Nephew.</p>
                <p>
                   <hi>Brethren,</hi>
@@ -958,7 +958,7 @@ Treaties, eſpecially in the laſt, held at this Town, he calls you his Uncles, 
                <p>THE <hi>Indians</hi> were in Council all Day; and acquainted the Governors, that they could not be ready to meet before Morning.</p>
             </div>
             <div type="day">
-               <pb n="16" facs="tcp:008156_0016_102E3E6B54EB50F0"/>
+               <pb n="16" facs="unknown:008156_0016_102E3E6B54EB50F0"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>held at</hi> Eaſton, <hi>on the 18th of</hi> October, 1758.</head>
                <p>PRESENT, <hi>The</hi> GOVERNORS, <hi>Council, Gentlemen, and</hi> Indiana, <hi>with the Interpreters as before.</hi>
@@ -975,7 +975,7 @@ Treaties, eſpecially in the laſt, held at this Town, he calls you his Uncles, 
                   <hi>Brethren,</hi>
                </p>
                <p>You have been inquiſitive to know the Cauſe of this War; you have often enquired among us, but perhaps you did not find out the true Cauſe of the Bitterneſs of our Hearts, and may charge us wrong, and think that you were ſtruck without a Cauſe by ſome of our own War<g ref="char:EOLhyphen"/>riors, and by our Couſins. But if you look a little about you, you will find that you gave the firſt Offence. For in Time of profound Peace, ſome of the <hi>Shawaneſe,</hi> paſſing through <hi>South-Carolina,</hi> to go to War with their Enemies, were taken up, and put in Priſon. The <hi>Engliſh</hi> knew they were going to War, and that they uſed to do it every Year; and yet, after they had perſuaded them in a friendly Way into their Houſes, they were taken up, and put into Priſon, and one, who was an Head Man of that Nation, loſt his Life, and the others were ſeverely uſed. This firſt raiſed Ill-will in the Minds of the <hi>Shawaneſe,</hi> and as the <hi>French</hi> came a little after this happened to ſettle on the <hi>Ohio,</hi> the <hi>Shawaneſe</hi> complained of it to them, and they made an artful Uſe of it, ſet them againſt the <hi>Engliſh,</hi> and gave them the 
-<pb n="17" facs="tcp:008156_0017_102E3E6DD7590530"/>
+<pb n="17" facs="unknown:008156_0017_102E3E6DD7590530"/>
 Hatchet. Being reſolved on Revenge, they accepted it, and likewiſe ſpoke to their Grand<g ref="char:EOLhyphen"/>fathers the <hi>Delawares,</hi> ſaying, Grandfathers, Are not your Hearts fore at our being uſed ſo ill, and at the Loſs of one of our Chiefs? Will not you join us in revenging his Death? So by Degrees our young Men were brought over to act againſt you. On ſearching Matters to the Bottom, you will find that you, in this Manner, gave the firſt Offence. This we thought proper to let you know. It may be of Service for the future. You may be induced by this to take better Care in conducting your Council Buſineſs, ſo as to guard againſt theſe Breaches of Friendſhip; or, as ſoon as they happen, in correſponding immediately with one another, and with the <hi>Indian</hi> Nations, who are in any wiſe concerned, on ſuch Occaſions.</p>
                <p>
                   <hi>Eight Strings of black Wampum.</hi>
@@ -1015,7 +1015,7 @@ Hatchet. Being reſolved on Revenge, they accepted it, and likewiſe ſpoke to t
                <p>
                   <hi>Brother, the Governor of</hi> Jerſey,</p>
                <p>Our Couſins the <hi>Miniſinks</hi> tell us, they were wronged out of a great deal of Land, and the <hi>Engliſh</hi> ſettling ſo faſt, they were puſhed back, and could not tell what Lands belonged to them. If we have been drunk, tell us ſo. We may have forgot what we ſold, but we truſt to you the Governor of <hi>Jerſey</hi> to take our Cauſe in Hand, and ſee that we have Juſtice done us. We ſay that we have here and there Tracts of Land, that have never been ſold. You deal hardly with us; you claim all the wild Creatures, and will not let us come on your Land to hunt after them. You will not ſo much as let us peel a ſingle Tree; this is hard, and has given us great Offence. The Cattle you raiſe are your own; but thoſe which are wild, are 
-<pb n="18" facs="tcp:008156_0018_102E3E706285B138"/>
+<pb n="18" facs="unknown:008156_0018_102E3E706285B138"/>
 ſtill ours, and ſhould be common to both; for our Nephews, when they ſold the Land, did not propoſe to deprive themſelves of hunting the wild Deer, or uſing a Stick of Wood, when they ſhould have Occaſion. We deſire the Governor to take this Matter into his Care, and ſee Juſtice done in it.</p>
                <p>
                   <hi>Two Strings of white Wampum.</hi>
@@ -1060,7 +1060,7 @@ Hatchet. Being reſolved on Revenge, they accepted it, and likewiſe ſpoke to t
                      </gap>nt<gap reason="illegible" resp="#PDCC" extent="1 letter">
                         <desc>•</desc>
                      </gap>in</hi>; thence to <hi>Secaughkung.</hi> The chief Men there got together to conſider what was beſt to be done with it. They all concluded that it ſhould be ſent to our Uncle. He is a Man, and often told us he ought to ſee Things firſt, and conſider what is to be done. The <hi>Senecas</hi> had the Belt the firſt, and then all the <hi>United Nations</hi> afterwards; they had it almoſt a Year. Now it is come back, and in <hi>Lapachpeton</hi>'s Hands, who is one of the <hi>De<g ref="char:EOLhyphen"/>lawares,</hi> and lives at <hi>Secaughkung.</hi> How far the Peace Belt went, I don't know; but I ſuppoſe it went thro' all my Uncles, and I aſſure you I will do as my Uncle does. He has promiſed you he will deliver up all your Captives, and I aſſure you I will do ſo, whereſo<g ref="char:EOLhyphen"/>ever I find them, in all my Towns. Four Tribes, now preſent, have agreed to this, <hi>viz.</hi> 
-                  <pb n="19" facs="tcp:008156_0019_102E3E74569791C0"/>
+                  <pb n="19" facs="unknown:008156_0019_102E3E74569791C0"/>
                   <hi>Delawares, Unamies, Mohiccons,</hi> and <hi>Wapings,</hi> who are ſettled as far as <hi>Secaughkung.</hi> This Belt confirms my Words.</p>
                <p>
                   <hi>A Belt.</hi>
@@ -1110,7 +1110,7 @@ Hatchet. Being reſolved on Revenge, they accepted it, and likewiſe ſpoke to t
                </div>
             </div>
             <div type="day">
-               <pb n="20" facs="tcp:008156_0020_102E3E75DCDE9448"/>
+               <pb n="20" facs="unknown:008156_0020_102E3E75DCDE9448"/>
                <head>
                   <hi>At a</hi> CONFERENCE <hi>with the</hi> Indians, <hi>held at</hi> Eaſton, October 20, 1758.</head>
                <p>PRESENT, <hi>The</hi> GOVERNORS, <hi>Council, Gentlemen and</hi> Indians, <hi>with the Interpreters, as before.</hi>
@@ -1158,7 +1158,7 @@ Hatchet. Being reſolved on Revenge, they accepted it, and likewiſe ſpoke to t
                   <hi>Brethren,</hi>
                </p>
                <p>The Proprietaries of this Province have, on all Occaſions, manifeſted their particular Regard for you; they prefer your Friendſhip and the publick Good to their own private Intereſt. Their former Conduct gives you no Room to doubt the Truth of this; what I am about to tell you is a further Confirmation of it; therefore give me your Attention, and liſten to what I ſhall ſay. You may remember, that, at a Treaty you held with your good Friend Sir <hi>William Johnſon,</hi> three Years ago, ſome of your wiſe men told him, that there were ſome among them who were diſſatisfied with the Sale of the above Lands, made by them at <hi>Albany,</hi> and were deſirous 
-<pb n="21" facs="tcp:008156_0021_102E3E77635E3EB8"/>
+<pb n="21" facs="unknown:008156_0021_102E3E77635E3EB8"/>
 that Part of it ſhould be reſerved for them, though the Proprietaries had purchaſed it fairly of them, and paid <hi>One Thouſand Pieces of Eight,</hi> which was all they were to receive, till our People ſettled to the Weſtward of the <hi>Allegheny,</hi> or <hi>Appalaccian Hills.</hi> Sir <hi>William Johnſon</hi> repreſented this Matter to the Proprietaries, in your Behalf, whereupon they chearfully agreed to releaſe to you all that Part of the Purchaſe you have reclaimed, and, by a Letter of Attorney, em<g ref="char:EOLhyphen"/>powered <hi>Richard Peters,</hi> and <hi>Conrad Weiſer,</hi> to execute a Deed to you for thoſe Lands, on your confirming to them the Reſidue of that Purchaſe. On this Subject therefore you will pleaſe to confer with them, and ſettle the Boundaries between you, that they may releaſe the Lands to you accordingly, before you leave this Place, and ſet your Minds at Eaſe.</p>
                <p>
                   <hi>A String.</hi>
@@ -1191,7 +1191,7 @@ that Part of it ſhould be reſerved for them, though the Proprietaries had purc
                <p>After the Governor had done ſpeaking, <hi>Tagaſhata</hi> and <hi>Nichas</hi> aroſe, and ſaid, they did not rightly underſtand that Paragraph relating to the Lands, and requiring them to ſettle Matters among themſelves; they ſaid the Governor had left Matters in the Dark; they did not know what Lands he meant. If he meant the Lands on the other Side of the Mountain, he knew the Proprietaries had their Deeds for them, which ought to be produced and ſhewn to them. Their Deeds had their Marks, and when they ſhould ſee them, they would know their Marks again.</p>
                <p>And then <hi>Conrad Weiſer</hi> being deſired to bring the Deed, Governor <hi>Bernard</hi> informed the <hi>Indians</hi> he was going to ſpeak to them; on which they acquainted him, that they choſe to be ſpoke to by one Governor only at a Conference; for that when they both ſpoke, their Belts were mixed, and they were thereby confuſed in their Councils. Whereupon he deferred his Speech to another Time.</p>
                <p>The Deed was then produced to the <hi>Indians,</hi> and <hi>Nichas</hi> ſaid, this Deed we well remem<g ref="char:EOLhyphen"/>ber; we know our Chiefs who ſigned it; ſome of them are preſent now; we ſold the Land, and were honeſtly paid for it; the Land was ours, and we will juſtify it. They were deſired 
-<pb n="22" facs="tcp:008156_0022_102E3E79E8F6E870"/>
+<pb n="22" facs="unknown:008156_0022_102E3E79E8F6E870"/>
 to take it with them into their Council Room, and confer on it, and ſettle the Matter among themſelves.</p>
                <p>
                   <hi>The Conference then broke up.</hi>
@@ -1270,7 +1270,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                </p>
                <p>
                   <hi>Brethren on the</hi> Ohio,</p>
-               <p>If you take the Belts we juſt now gave you, in which all here join, <hi>Engliſh</hi> and <hi>Indians,</hi> as we don't doubt you will; then, by this Belt, I make a Road for you, and invite you to <pb n="23" facs="tcp:008156_0023_102E3E7B70679618"/>come to <hi>Philadelphia,</hi> to your firſt old Council Fire, which was kindled when we firſt ſaw one another; which Fire we will kindle up again, and remove all Diſputes, and renew the old and firſt Treaties of Friendſhip. This is a clear and open Road for you; fear therefore nothing, and come to us with as many as can be, of the <hi>Delawares, Shawaneſe,</hi> or of the <hi>Six Nation Indians.</hi> We will be glad to ſee you; we deſire all Tribes and Nations of <hi>Indians,</hi> who are in Alliance with you, may come. As ſoon as we hear of your coming, of which you will give us timely Notice, we will lay up Proviſions for you along the Road.</p>
+               <p>If you take the Belts we juſt now gave you, in which all here join, <hi>Engliſh</hi> and <hi>Indians,</hi> as we don't doubt you will; then, by this Belt, I make a Road for you, and invite you to <pb n="23" facs="unknown:008156_0023_102E3E7B70679618"/>come to <hi>Philadelphia,</hi> to your firſt old Council Fire, which was kindled when we firſt ſaw one another; which Fire we will kindle up again, and remove all Diſputes, and renew the old and firſt Treaties of Friendſhip. This is a clear and open Road for you; fear therefore nothing, and come to us with as many as can be, of the <hi>Delawares, Shawaneſe,</hi> or of the <hi>Six Nation Indians.</hi> We will be glad to ſee you; we deſire all Tribes and Nations of <hi>Indians,</hi> who are in Alliance with you, may come. As ſoon as we hear of your coming, of which you will give us timely Notice, we will lay up Proviſions for you along the Road.</p>
                <p>
                   <hi>A large white Belt, with the Figure of a Man at each End, and Streaks of black, repreſenting the Road from the</hi> Ohio <hi>to</hi> Philadelphia.</p>
                <p>
@@ -1311,7 +1311,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                <p>The <hi>Mingoes,</hi> or <hi>Six United Nations,</hi> by <hi>Thomas King,</hi> ſaid, that the <hi>United Nations</hi> had no Claim to the Lands of the <hi>Miniſinks,</hi> or others their Nephews, on the Eaſt Side of <hi>De<g ref="char:EOLhyphen"/>laware,</hi> and ſhould therefore leave the fixing a Price to them.</p>
                <p>Then the <hi>Miniſinks</hi> and <hi>Wapings</hi> withdrew to conſult upon it; and being returned, <hi>Ego<g ref="char:EOLhyphen"/>hohowen,</hi> the <hi>Miniſink</hi> Chief, ſaid, they would chuſe the Governor ſhould make an Offer, as they might perhaps demand too much.</p>
                <p>
-                  <pb n="24" facs="tcp:008156_0024_102E3E804698D7C0"/>His Excellency, having conſulted the Commiſſioners, offered them <hi>Eight Hundred</hi> Spaniſh <hi>Dollars</hi> for their Claim in <hi>New-Jerſey,</hi> as an extraordinary Price.</p>
+                  <pb n="24" facs="unknown:008156_0024_102E3E804698D7C0"/>His Excellency, having conſulted the Commiſſioners, offered them <hi>Eight Hundred</hi> Spaniſh <hi>Dollars</hi> for their Claim in <hi>New-Jerſey,</hi> as an extraordinary Price.</p>
                <p>The <hi>Miniſinks</hi> ſaid, they ſhould be glad of the Opinion of their Uncles in the Matter.</p>
                <p>The <hi>Mingoes,</hi> or <hi>United Nations,</hi> by <hi>Thomas King,</hi> ſaid, that it was a fair and honourable Offer, and that if it were their own Caſe, they would chearfully accept of it; but as there were a great many Perſons to ſhare in the Purchaſe-money, they recommended it to his Ex<g ref="char:EOLhyphen"/>cellency to add <hi>Two Hundred Dollars</hi> more; and if that was complied with, the Report of it would be carried to all the Nations, and would be a great Proof of the Affection and Ge<g ref="char:EOLhyphen"/>neroſity of their Brethren the <hi>Engliſh</hi> on this Occaſion, and would be very agreeable to them.</p>
                <p>His Excellency deſired to know of the <hi>Miniſinks,</hi> and other Claimants, if they approved of the Propoſal of their Uncles, and they informed him that they did.</p>
@@ -1335,7 +1335,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                <p>We are now thoroughly ſatisfied, and we ſtill retain a Friendſhip for our Brethren the <hi>Eng<g ref="char:EOLhyphen"/>liſh,</hi> and we deſire, that if we ſhould come into your Province to ſee our old Friends, and ſhould have Occaſion for the Bark of a Tree to over a Cabbin, or a little Refreſhment, that we ſhould not be denied, but be treated as Brethren; and that your People may not look on the wild Beaſts of the Foreſt, or Fiſh of the Waters, as their ſole Property, but that we may be admitted to an equal Uſe of them.</p>
                <p>The Governor anſwered, that, as ſoon as he got home, he ſhould iſſue a Proclamation to notify to the People of his Province, that he had made a Peace with them; and to order, that, for the future, they ſhould be treated as Brethren, which he hoped would be done; but deſired that they would not go into thoſe Parts where they had lately committed Hoſtili<g ref="char:EOLhyphen"/>ties, till the Peoples Paſſions were cooled; for he could not be anſwerable for his Peoples Behaviour, whilſt their Loſſes were freſh upon their Minds.</p>
                <p>
-                  <pb n="25" facs="tcp:008156_0025_102E3E81D98D9C58"/>On the 21ſt of <hi>October</hi> the Members of the <hi>Pennſylvania</hi> Council received a Meſſage from Mr. <hi>Weiſer,</hi> that the Chiefs of the <hi>United Nations</hi> were met in Council, with their Nephews the <hi>Delawares,</hi> at the Houſe of <hi>Nicholas Scull,</hi> and that the <hi>Delawares</hi> had ſomething to ſay to their Uncles, which they deſired ſome of the Members of that Council, and Commiſſion<g ref="char:EOLhyphen"/>ers, ſhould be Witneſſes of, and hear.</p>
+                  <pb n="25" facs="unknown:008156_0025_102E3E81D98D9C58"/>On the 21ſt of <hi>October</hi> the Members of the <hi>Pennſylvania</hi> Council received a Meſſage from Mr. <hi>Weiſer,</hi> that the Chiefs of the <hi>United Nations</hi> were met in Council, with their Nephews the <hi>Delawares,</hi> at the Houſe of <hi>Nicholas Scull,</hi> and that the <hi>Delawares</hi> had ſomething to ſay to their Uncles, which they deſired ſome of the Members of that Council, and Commiſſion<g ref="char:EOLhyphen"/>ers, ſhould be Witneſſes of, and hear.</p>
                <p>Meſſieurs <hi>Growdon, Chew,</hi> and <hi>Miſſlin,</hi> attended accordingly, with Meſſieurs <hi>Galloway, Fox,</hi> and <hi>Hughes,</hi> Commiſſioners, and <hi>Iſrael Pemberton, Iſaac Zane,</hi> and ſome other <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> who were preſent at this particular Requeſt of the <hi>Delawares.</hi>
                </p>
                <p>PRESENT,
@@ -1382,7 +1382,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                <p>The Belts and Strings were numbered, as well in the written Paper containing the Meſ<g ref="char:EOLhyphen"/>ſages, as on Labels tied to each of them, and delivered to <hi>Piſquitomen,</hi> and the written Meſſage was delivered, with the Paſſports, to Captain <hi>Bull.</hi>
                </p>
                <p>
-                  <pb n="26" facs="tcp:008156_0026_102DD04980338380"/>The 22d of <hi>October,</hi> the <hi>Six Nation</hi> Chiefs held a private Council, and named two of their People to ſend to the <hi>Ohio,</hi> viz. <hi>Tojenontawoby,</hi> a <hi>Cayuga</hi> Chief, and the youngeſt <hi>Shick Calamy,</hi> who joined <hi>Piſquitemen,</hi> and ſet off this Afternoon. As they were ſetting out, Mr. <hi>Frederick Poſt</hi> arrived with News from General <hi>Forbes,</hi> that a large Body of <hi>French</hi> and <hi>In<g ref="char:EOLhyphen"/>dians,</hi> having attacked his advanced Poſt at <hi>Loyal Hanning,</hi> were repulſed with great Loſs on their Side; which News he communicated to the <hi>Indians.</hi>
+                  <pb n="26" facs="unknown:008156_0026_102DD04980338380"/>The 22d of <hi>October,</hi> the <hi>Six Nation</hi> Chiefs held a private Council, and named two of their People to ſend to the <hi>Ohio,</hi> viz. <hi>Tojenontawoby,</hi> a <hi>Cayuga</hi> Chief, and the youngeſt <hi>Shick Calamy,</hi> who joined <hi>Piſquitemen,</hi> and ſet off this Afternoon. As they were ſetting out, Mr. <hi>Frederick Poſt</hi> arrived with News from General <hi>Forbes,</hi> that a large Body of <hi>French</hi> and <hi>In<g ref="char:EOLhyphen"/>dians,</hi> having attacked his advanced Poſt at <hi>Loyal Hanning,</hi> were repulſed with great Loſs on their Side; which News he communicated to the <hi>Indians.</hi>
                </p>
                <p>At Noon the Governors, being prepared for a Conference, propoſed a Meeting of the <hi>Indians,</hi> which they deſired might be deferred till the Morning.</p>
             </div>
@@ -1433,7 +1433,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                   <p>As a Token of the Love we your Brethren of this Province bear to you, I ſhall make a Preſent of a Quantity of Goods, which we have prepared for you, and deſire your Accept<g ref="char:EOLhyphen"/>ance of them; ſenſible of the approaching Seaſon, and of the many Difficulties you live under, from the preſent War. We give it with an hearty Good-will.</p>
                   <p>Here his Honour delivered a Liſt of the Goods, and deſired Mr. <hi>Weiſer,</hi> and Mr. <hi>Montour,</hi> would interpret it to them at a proper Time.</p>
                   <list>
-                     <pb n="27" facs="tcp:008156_0027_102E3E86E3C2E840"/>
+                     <pb n="27" facs="unknown:008156_0027_102E3E86E3C2E840"/>
                      <head>
                         <hi>INVOICE of</hi> Indian <hi>GOODS brought to</hi> Eaſton.</head>
                      <item>3 Groce of narrow ſtarred Gartering.</item>
@@ -1524,7 +1524,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                   </p>
                   <p>I am glad I have an Opportunity, in the Preſence of ſo many Nations, to expreſs the De<g ref="char:EOLhyphen"/>ſire I have of doing Juſtice to every one. The Throne of the Great King it founded on Juſtice, and I ſhould not be a faithful Servant to him, if I neglected to give Redreſs to all Perſons that have received Injuries from the People over whom the Great King has placed me.</p>
                   <p>
-                     <pb n="28" facs="tcp:008156_0028_102E3E8AAABF86F8"/>I have therefore had a Conference with the <hi>Miniſinks,</hi> in the Preſence of ſome of their Uncles, and have come to a full Agreement with them; the Proceedings of which are now ready to be read to you.</p>
+                     <pb n="28" facs="unknown:008156_0028_102E3E8AAABF86F8"/>I have therefore had a Conference with the <hi>Miniſinks,</hi> in the Preſence of ſome of their Uncles, and have come to a full Agreement with them; the Proceedings of which are now ready to be read to you.</p>
                   <p>
                      <hi>Brethren,</hi>
                   </p>
@@ -1570,7 +1570,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                      </gap> be ſent to all the diſtant Nations of <hi>Indians,</hi> to whom it would be very agreeable; <gap reason="illegible" resp="#PDCC" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> likewiſe promiſed, that every Thing tranſacted in theſe Conferences, which, he again 
-<pb n="29" facs="tcp:008156_0029_102E3E8D33D1B770"/>
+<pb n="29" facs="unknown:008156_0029_102E3E8D33D1B770"/>
 ſaid, had afforded him great Pleaſure, ſhould be laid before the great Council at <hi>Onondago,</hi> whoſe Anſwer ſhould be carefully tranſmitted. He thanked Governor <hi>Bernard</hi> for making up all the Differences between the Government and the <hi>Miniſink Indians,</hi> ſo much to their Satisfaction. He made an Apology for the Want of Wampum, and the Exchange of other Belts, to give in Confirmation of their Performance of the ſeveral Things mentioned in the Governor's Speeches, agreeable to <hi>Indian</hi> Cuſtoms. Then wiſhed Governor <hi>Denny</hi> a good Journey.</p>
                </div>
             </div>
@@ -1683,7 +1683,7 @@ to take it with them into their Council Room, and confer on it, and ſettle the 
                <p>As we have now ſettled all Differences, <gap reason="illegible" resp="#PDCC" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> confirmed the antient Leagues of Amity, and Brightened the Chain of Friendſhip; we now clean the Blood off your Council Seats, and 
-<pb n="30" facs="tcp:008156_0030_102E3E8EBAFDDE20"/>
+<pb n="30" facs="unknown:008156_0030_102E3E8EBAFDDE20"/>
 put them in Order, that when you hold Councils at Home, you may ſit as you formerly uſed to do in your Seats, with the ſame Peace and Tranquility.</p>
                <p>
                   <hi>A String, conſiſting of One Thouſand Grains of Wampum.</hi>
@@ -1732,7 +1732,7 @@ put them in Order, that when you hold Councils at Home, you may ſit as you form
                </p>
                <p>The <hi>Five Nation</hi> Chiefs having laid all the Belts and Strings on the Table, that were de<g ref="char:EOLhyphen"/>livered at this and the laſt Conference, the <hi>Cayuga</hi> Chief, <hi>Tokaaio,</hi> deſired the Governors, and all preſent, would hearken to what <hi>Thomas King</hi> was going to ſay on Behalf of the <hi>United Nations</hi> (now Eight in Number) on which <hi>Thomas King</hi> aroſe, and taking up the firſt Belt, which was given by <hi>Teedyuſcung,</hi> when he requeſted a Deed for the <hi>Wyomink</hi> Lands, he ad<g ref="char:EOLhyphen"/>dreſſed the <hi>Delawares, Teedyuſcung</hi> not being preſent, as follows.</p>
                <p>
-                  <pb n="31" facs="tcp:008156_0031_102E3E913B02F2E8"/>
+                  <pb n="31" facs="unknown:008156_0031_102E3E913B02F2E8"/>
                   <hi>Couſins,</hi>
                </p>
                <p>By this Belt <hi>Teedyuſcung</hi> deſired us to make you the Owners of the Lands at <hi>Wyomink, Shamokin,</hi> and other Places on the <hi>Sqſquehannah</hi> River; in Anſwer to which, we who are preſent ſay, that we have no Power to convey Lands to any one; but we will take your Re<g ref="char:EOLhyphen"/>queſt to the great Council Fire, for their Sentiments, as we never convey or ſell any Lands, before it be agreed in the great Council of the <hi>United Nations.</hi> In the mean Time you may make uſe of thoſe Lands, in Conjunction with our People, and all the reſt of our Relations, the <hi>Indians</hi> of the different Nations in our Alliance, which being interpreted in <hi>Delaware,</hi> the String of Wampum was given to <hi>Moſes Tittamy,</hi> and <hi>James Davis,</hi> to be delivered to <hi>Teedyuſcung,</hi> as he was not preſent.</p>
